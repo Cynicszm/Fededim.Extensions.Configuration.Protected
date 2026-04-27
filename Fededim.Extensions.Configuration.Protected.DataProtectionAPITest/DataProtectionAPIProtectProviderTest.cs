@@ -1,10 +1,9 @@
-﻿using Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel;
+using Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel;
 using Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption;
 using Microsoft.AspNetCore.DataProtection;
 using System;
 using Fededim.Extensions.Configuration.Protected.DataProtectionAPI;
 using System.IO;
-using Xunit.Abstractions;
 using Xunit;
 
 namespace Fededim.Extensions.Configuration.Protected.DataProtectionAPITest
